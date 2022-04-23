@@ -21,7 +21,7 @@ pagina para programar: replit.com
 
 #### 📚 equipo ejemplo
     Pepito perez (Avanzado)
-    disponible (Medio)
+    F Ernesto perez (Medio)
     pepito perez (Báasico)
 
 ###### 📚 equipo # 1
