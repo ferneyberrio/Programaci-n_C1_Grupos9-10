@@ -1,5 +1,24 @@
 # 🚀 Programaci-n_C1_Grupos9-10
 # **Espacio colaborativo donde todos podemos sumar, es de todos y para todos**
+
+**Link de interes**
+
+repositorio:
+https://github.com/anmaogo/Mision-tic-2022-UdeA
+
+Enlace plataforma:
+https://lms.misiontic2022udea.com/course/view.php?id=636
+
+linck github Profesor:
+https://github.com/DiegOliveros/Programaci-n-C1-Grupo-9
+
+correo profesor:
+divan.oliveros@udea.edu.co
+
+pagina para programar: replit.com
+
+
+
 #### 📚 equipo ejemplo
     Pepito perez (Avanzado)
     disponible (Medio)
