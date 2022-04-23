@@ -15,7 +15,8 @@ https://github.com/DiegOliveros/Programaci-n-C1-Grupo-9-
 correo profesor:
 divan.oliveros@udea.edu.co
 
-pagina para programar: replit.com
+pagina para programar: 
+https://replit.com/
 
 
 
